@@ -1,0 +1,16 @@
+{
+  "name": "cliq-nlp-mediator",
+  "version": "1.0.0",
+  "main": "mediator.js",
+  "scripts": {
+    "dev": "node mediator.js",
+    "start": "node mediator.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
